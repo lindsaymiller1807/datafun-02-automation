@@ -9,6 +9,21 @@
 
 > Professional Python project: automation with loops and branching.
 
+## Lindsay's Custom Project
+
+For my custom project, I changed the measurement from `bill_length_mm`
+to `flipper_length_mm`.
+
+I chose flipper length because it is a numeric measurement that varies
+across penguins and can be used as a simple indicator of body size.
+
+I kept the classification thresholds at 90% and 110% of the mean.
+Values below 90% of the mean are classified as short, values above 110%
+are classified as long, and values in between are classified as average.
+
+After rerunning the project, the histogram updated to show the
+distribution of `flipper_length_mm`, and the project executed successfully.
+
 ## Our Approach: Learn by Doing
 
 This course builds capabilities through working projects.
